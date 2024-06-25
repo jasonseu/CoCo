@@ -1,4 +1,4 @@
-## Semantic-Guided Representation Enhancement for Multi-Label Classification
+## Multi-Label Image Classification via Contrastive Co-occurrence Learning
 
 ### Introduction
 This is an official PyTorch implementation of Multi-Label Image Classification via Contrastive Co-occurrence Learning, submitted in IEEE Transactions on Image Processing 2024. [[paper]]()
