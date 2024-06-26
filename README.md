@@ -1,7 +1,7 @@
 ## Multi-Label Image Classification via Contrastive Co-occurrence Learning
 
 ### Introduction
-This is an official PyTorch implementation of Multi-Label Image Classification via Contrastive Co-occurrence Learning, submitted in IEEE Transactions on Image Processing 2024. [[paper]]()
+This is an official PyTorch implementation of Multi-Label Image Classification via Contrastive Co-occurrence Learning, submitted to IEEE Transactions on Image Processing 2024. [[paper]]()
 
 ![alt tsformer](src/framework.png)
 
